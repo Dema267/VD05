@@ -1,0 +1,69 @@
+/* Общие стили для всех страниц */
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+    color: #444;
+    margin-bottom: 20px;
+}
+
+.navbar {
+    background-color: #e3f2fd;
+}
+
+.footer {
+    background-color: #e3f2fd;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Стили для главной страницы */
+.home-page {
+    background-color: #f0f4f8;
+}
+
+.home-page h1 {
+    color: #2c3e50;
+}
+
+/* Стили для страницы "О нас" */
+.about-page {
+    background-color: #f8f0e4;
+}
+
+.about-page h1 {
+    color: #8e44ad;
+}
+
+/* Стили для страницы "Услуги" */
+.services-page {
+    background-color: #e8f5e9;
+}
+
+.services-page h1 {
+    color: #27ae60;
+}
+
+/* Стили для страницы "Мастера" */
+.masters-page {
+    background-color: #fff3e0;
+}
+
+.masters-page h1 {
+    color: #d35400;
+}
+
+/* Стили для страницы "Галерея" */
+.gallery-page {
+    background-color: #e0f7fa;
+}
+
+.gallery-page h1 {
+    color: #0097a7;
+}
